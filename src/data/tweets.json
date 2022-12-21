@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1671640078/myimages/virat_b6qzjr.jpg",
+        "name": "Virat Kholi",
+        "username": "viratkholi32",
+        "time": "4 mins ago",
+        "tweet": "A fit body gives you confidence. And there’s nothing more impressive than a great attitude, which you can wear on your sleeve. But you’ll have to remember the difference between being rude and being confident"
+    },
+    {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1671640079/myimages/elonmusk_vb020m.jpg",
+        "name": "Elon Musk",
+        "username": "elonmusk0",
+        "time": "7 mins ago",
+        "tweet": "What makes innovative thinking happen?… I think it’s really a mindset. You have to decide"
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1671640079/myimages/sundarPichai_vha3w5.jpg",
+        "name": "Sundar Pichai",
+        "username": "sundarpichai56",
+        "time": "45 mins ago",
+        "tweet": "It is important to follow your dreams and heart. Do something that excites You."
+    },
+    {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1671640078/myimages/SidhM_fusgpt.jpg",
+        "name": "SidharthMalhotra",
+        "username": "sidharthmalhotra34",
+        "time": "35 mins ago",
+        "tweet": "You can't force people to feel in a certain way, and the sooner you understand that,the better. I feel everything has its way of working"
+    }
+]

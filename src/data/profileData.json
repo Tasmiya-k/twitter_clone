@@ -1,0 +1,14 @@
+{
+    "id": "id",
+    "coverPhoto": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1671634348/myimages/Scenary_dlmaem.jpg",
+    "avatar": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1671634348/myimages/profile_krixhe.jpg",
+    "bio": "Welcome to my Twitter clone. I made this using ReactJs and Tailwind CSS. I had great time making this project",
+    "location": "Mumbai",
+    "website": "https://www.instagram.com/artistic_krytion/",
+    "dob": "January 1, 2008",
+    "followersCount": 964,
+    "followingCount": 10,
+    "handle": "Theuser",
+    "fullname": "user423",
+    "joined": "September 2022"
+}
